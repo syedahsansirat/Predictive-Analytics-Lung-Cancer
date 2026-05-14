@@ -245,7 +245,7 @@ Potential future enhancements include:
 
 ```text
 predictive-analytics-lung-cancer/
-
+│── data/
 │── notebooks/
 │── powerbi/
 │── images/

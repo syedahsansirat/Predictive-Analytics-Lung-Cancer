@@ -47,7 +47,9 @@ https://www.kaggle.com/datasets/rashadrmammadov/lung-cancer-prediction
 
 Dataset Author:  
 Rashad R. Mammadov
-![Dataset](images/1.dataset_Overview.png)
+---
+![Dataset](images/1.dataset_overview.png)
+---
 ### Important Note
 This dataset is synthetically generated and used for educational and portfolio purposes. It does not represent real patient records.
 
@@ -120,6 +122,7 @@ Exploratory analysis was performed to identify trends and patterns within the da
 - Comorbidity burden analysis
 
 Python visualizations were created using Matplotlib and Seaborn to support exploratory analysis and healthcare storytelling.
+---
 ![EDA_Visualization](images/3_eda_vis.png)
 ---
 
@@ -155,6 +158,7 @@ The following evaluation techniques were used:
 - Feature Importance Analysis
 
 Feature importance analysis was used to identify the strongest predictive factors affecting patient risk classification.
+---
 ![Feature Importance](images/5._Feature_Importance.png)
 ---
 

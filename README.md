@@ -174,17 +174,17 @@ This page presents:
 # Dashboard Screenshots
 
 ## Executive Dashboard
-![Executive Dashboard](images/dashboard_page1.png)
+![Executive Dashboard](images/BI1.png)
 
 ---
 
 ## Cohort & Clinical Analysis
-![Cohort Analysis](images/dashboard_page2.png)
+![Cohort Analysis](images/BI2.png)
 
 ---
 
 ## Machine Learning Insights
-![Machine Learning Insights](images/dashboard_page3.png)
+![Machine Learning Insights](images/BI3.png)
 
 ---
 
@@ -224,7 +224,6 @@ Potential future enhancements include:
 ```text
 predictive-analytics-lung-cancer/
 
-│── data/
 │── notebooks/
 │── powerbi/
 │── images/

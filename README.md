@@ -47,7 +47,7 @@ https://www.kaggle.com/datasets/rashadrmammadov/lung-cancer-prediction
 
 Dataset Author:  
 Rashad R. Mammadov
-![Executive Dashboard](images/1.Dataset Overview.png)
+![Dataset](images/1.Dataset_Overview.png)
 ### Important Note
 This dataset is synthetically generated and used for educational and portfolio purposes. It does not represent real patient records.
 
@@ -90,14 +90,14 @@ Several preprocessing and feature engineering steps were performed to prepare th
 - Handled missing values
 - Standardized categorical variables
 - Validated data types
-![Executive Dashboard](images/2.2.Data Cleaning  Feature Engineering.png)
+![Data Cleaning](images/2.2.Data_Cleaning_Feature_Engineering.png)
 ## Feature Engineering
 Created additional analytical features including:
 - High_Risk classification
 - Age_Group segmentation
 - Stage_Num encoding
 - Comorbidity_Count calculation
-![Executive Dashboard](images/2.Data Cleaning  Feature Engineering.png)
+![Feature Engineering](images/2.Data_Cleaning_Feature_Engineering.png)
 ### High Risk Definition
 A derived high-risk classification was created using survival duration thresholds:
 
@@ -120,7 +120,7 @@ Exploratory analysis was performed to identify trends and patterns within the da
 - Comorbidity burden analysis
 
 Python visualizations were created using Matplotlib and Seaborn to support exploratory analysis and healthcare storytelling.
-![Executive Dashboard](images/3.EDA Visualization.png)
+![EDA](images/3.EDA_Visualization.png)
 ---
 
 # Cohort Analysis
@@ -145,8 +145,8 @@ Machine learning models were developed to predict high-risk patient outcomes.
 ## Models Used
 - Logistic Regression
 - Random Forest Classifier
-![Executive Dashboard](images/4.1 ML Evaluation.png)
-![Executive Dashboard](images/4.2 ML Evaluation.png)
+![Logistic Regression](images/4.1_ML_Evaluation.png)
+![Random Forest Classifier](images/4.2_ML_Evaluation.png)
 ## Model Evaluation
 The following evaluation techniques were used:
 - Accuracy Score
@@ -155,7 +155,7 @@ The following evaluation techniques were used:
 - Feature Importance Analysis
 
 Feature importance analysis was used to identify the strongest predictive factors affecting patient risk classification.
-![Executive Dashboard](images/5. Feature Importance.png)
+![Feature Importance](images/5._Feature_Importance.png)
 ---
 
 # Power BI Dashboard
